@@ -1,29 +1,8 @@
 [
     {
-        "BSSID": "A0:25:D7:04:14:A2",
-        "Channel": "2.412 GHz (Channel 1)",
-        "Quality": "22/70",
-        "Encryption": "on",
-        "SSID": ""
-    },
-    {
-        "BSSID": "A0:25:D7:04:14:A3",
-        "Channel": "2.412 GHz (Channel 1)",
+        "BSSID": "20:A6:CD:A3:76:E0",
+        "Channel": "2.437 GHz (Channel 6)",
         "Quality": "52/70",
-        "Encryption": "on",
-        "SSID": "WIFI_VISITAS"
-    },
-    {
-        "BSSID": "A0:25:D7:04:14:A1",
-        "Channel": "2.412 GHz (Channel 1)",
-        "Quality": "62/70",
-        "Encryption": "on",
-        "SSID": "WIFI_ADMIN"
-    },
-    {
-        "BSSID": "A0:25:D7:04:14:A0",
-        "Channel": "2.412 GHz (Channel 1)",
-        "Quality": "54/70",
         "Encryption": "on",
         "SSID": "WIFI_ALUM"
     },
@@ -35,123 +14,116 @@
         "SSID": "K9"
     },
     {
-        "BSSID": "44:48:C1:5D:0B:44",
-        "Channel": "2.462 GHz (Channel 11)",
-        "Quality": "58/70",
-        "Encryption": "on",
-        "SSID": ""
-    },
-    {
-        "BSSID": "A0:25:D7:03:8D:A2",
+        "BSSID": "20:A6:CD:A3:76:E1",
         "Channel": "2.437 GHz (Channel 6)",
-        "Quality": "24/70",
-        "Encryption": "on",
-        "SSID": ""
-    },
-    {
-        "BSSID": "44:48:C1:5D:0B:40",
-        "Channel": "2.462 GHz (Channel 11)",
-        "Quality": "58/70",
-        "Encryption": "on",
-        "SSID": "WIFI_ALUM"
-    },
-    {
-        "BSSID": "44:48:C1:5D:0B:41",
-        "Channel": "2.462 GHz (Channel 11)",
-        "Quality": "58/70",
+        "Quality": "54/70",
         "Encryption": "on",
         "SSID": "WIFI_ADMIN"
     },
     {
-        "BSSID": "44:48:C1:5D:0B:42",
+        "BSSID": "DA:BE:26:34:DB:50",
+        "Channel": "2.437 GHz (Channel 6)",
+        "Quality": "48/70",
+        "Encryption": "on",
+        "SSID": "wifi"
+    },
+    {
+        "BSSID": "B8:37:B2:F3:FB:C4",
         "Channel": "2.462 GHz (Channel 11)",
-        "Quality": "56/70",
+        "Quality": "42/70",
         "Encryption": "on",
         "SSID": ""
     },
     {
-        "BSSID": "44:48:C1:5D:0B:43",
+        "BSSID": "44:48:C1:5D:0A:41",
         "Channel": "2.462 GHz (Channel 11)",
-        "Quality": "58/70",
+        "Quality": "34/70",
         "Encryption": "on",
-        "SSID": "WIFI_VISITAS"
+        "SSID": "WIFI_ADMIN"
     },
     {
-        "BSSID": "B8:37:B2:F3:FB:C0",
+        "BSSID": "44:48:C1:5D:0A:40",
         "Channel": "2.462 GHz (Channel 11)",
-        "Quality": "40/70",
+        "Quality": "34/70",
         "Encryption": "on",
         "SSID": "WIFI_ALUM"
     },
     {
-        "BSSID": "F2:F3:98:74:2C:1A",
+        "BSSID": "44:48:C1:5D:0A:43",
         "Channel": "2.462 GHz (Channel 11)",
-        "Quality": "58/70",
+        "Quality": "36/70",
         "Encryption": "on",
-        "SSID": "Redmi note10 pro"
+        "SSID": "WIFI_VISITAS"
+    },
+    {
+        "BSSID": "44:48:C1:5D:0A:44",
+        "Channel": "2.462 GHz (Channel 11)",
+        "Quality": "40/70",
+        "Encryption": "on",
+        "SSID": ""
     },
     {
         "BSSID": "B8:37:B2:F3:FB:C1",
         "Channel": "2.462 GHz (Channel 11)",
-        "Quality": "40/70",
+        "Quality": "32/70",
         "Encryption": "on",
         "SSID": "WIFI_ADMIN"
     },
     {
         "BSSID": "B8:37:B2:F3:FB:C2",
         "Channel": "2.462 GHz (Channel 11)",
-        "Quality": "40/70",
+        "Quality": "42/70",
         "Encryption": "on",
         "SSID": ""
     },
     {
-        "BSSID": "A0:25:D7:04:14:A4",
-        "Channel": "2.412 GHz (Channel 1)",
-        "Quality": "60/70",
-        "Encryption": "on",
-        "SSID": ""
-    },
-    {
-        "BSSID": "B8:37:B2:F3:FB:C4",
+        "BSSID": "B8:37:B2:F3:FB:C0",
         "Channel": "2.462 GHz (Channel 11)",
-        "Quality": "40/70",
-        "Encryption": "on",
-        "SSID": ""
-    },
-    {
-        "BSSID": "A0:25:D7:03:8D:A1",
-        "Channel": "2.437 GHz (Channel 6)",
-        "Quality": "34/70",
-        "Encryption": "on",
-        "SSID": "WIFI_ADMIN"
-    },
-    {
-        "BSSID": "82:51:5D:50:24:04",
-        "Channel": "2.442 GHz (Channel 7)",
-        "Quality": "38/70",
-        "Encryption": "on",
-        "SSID": "HUAWEI Y6 2018"
-    },
-    {
-        "BSSID": "A0:25:D7:03:8D:A4",
-        "Channel": "2.437 GHz (Channel 6)",
-        "Quality": "30/70",
-        "Encryption": "on",
-        "SSID": ""
-    },
-    {
-        "BSSID": "24:F2:7F:7B:BF:80",
-        "Channel": "2.412 GHz (Channel 1)",
         "Quality": "42/70",
         "Encryption": "on",
         "SSID": "WIFI_ALUM"
     },
     {
-        "BSSID": "D2:8F:1D:8B:5A:2E",
-        "Channel": "2.437 GHz (Channel 6)",
-        "Quality": "32/70",
+        "BSSID": "44:48:C1:5D:0B:42",
+        "Channel": "2.462 GHz (Channel 11)",
+        "Quality": "34/70",
         "Encryption": "on",
-        "SSID": "Angelica"
+        "SSID": ""
+    },
+    {
+        "BSSID": "44:48:C1:5D:0B:40",
+        "Channel": "2.462 GHz (Channel 11)",
+        "Quality": "34/70",
+        "Encryption": "on",
+        "SSID": "WIFI_ALUM"
+    },
+    {
+        "BSSID": "44:48:C1:5D:0B:41",
+        "Channel": "2.462 GHz (Channel 11)",
+        "Quality": "34/70",
+        "Encryption": "on",
+        "SSID": "WIFI_ADMIN"
+    },
+    {
+        "BSSID": "20:A6:CD:A3:76:E4",
+        "Channel": "2.437 GHz (Channel 6)",
+        "Quality": "54/70",
+        "Encryption": "on",
+        "SSID": ""
+    },
+    {
+        "BSSID": "20:A6:CD:A3:76:E3",
+        "Channel": "2.437 GHz (Channel 6)",
+        "Quality": "52/70",
+        "Encryption": "on",
+        "SSID": "WIFI_VISITAS"
+    },
+    {
+        "BSSID": "44:48:C1:5D:0B:43",
+        "Channel": "2.462 GHz (Channel 11)",
+        "Quality": "38/70",
+        "Encryption": "on",
+        "SSID": "WIFI_VISITAS"
     },
     {
         "BSSID": "24:F2:7F:7B:BF:83",
@@ -161,38 +133,108 @@
         "SSID": "WIFI_VISITAS"
     },
     {
-        "BSSID": "24:F2:7F:7B:BF:82",
-        "Channel": "2.412 GHz (Channel 1)",
-        "Quality": "42/70",
+        "BSSID": "F2:CC:0C:6A:4B:76",
+        "Channel": "2.462 GHz (Channel 11)",
+        "Quality": "46/70",
+        "Encryption": "on",
+        "SSID": "Yunman F4 GT"
+    },
+    {
+        "BSSID": "44:48:C1:5D:0A:42",
+        "Channel": "2.462 GHz (Channel 11)",
+        "Quality": "32/70",
         "Encryption": "on",
         "SSID": ""
     },
     {
-        "BSSID": "24:F2:7F:7B:BF:81",
-        "Channel": "2.412 GHz (Channel 1)",
-        "Quality": "42/70",
+        "BSSID": "44:48:C1:5D:0B:44",
+        "Channel": "2.462 GHz (Channel 11)",
+        "Quality": "38/70",
         "Encryption": "on",
-        "SSID": "WIFI_ADMIN"
-    },
-    {
-        "BSSID": "AE:8B:1F:0A:72:EF",
-        "Channel": "2.412 GHz (Channel 1)",
-        "Quality": "28/70",
-        "Encryption": "on",
-        "SSID": "HONOR X7"
+        "SSID": ""
     },
     {
         "BSSID": "24:F2:7F:7B:BF:84",
         "Channel": "2.412 GHz (Channel 1)",
-        "Quality": "40/70",
+        "Quality": "36/70",
         "Encryption": "on",
         "SSID": ""
     },
     {
-        "BSSID": "A0:25:D7:03:8D:A0",
-        "Channel": "2.437 GHz (Channel 6)",
-        "Quality": "40/70",
+        "BSSID": "24:F2:7F:7B:BF:80",
+        "Channel": "2.412 GHz (Channel 1)",
+        "Quality": "36/70",
         "Encryption": "on",
         "SSID": "WIFI_ALUM"
+    },
+    {
+        "BSSID": "A0:25:D7:04:14:A1",
+        "Channel": "2.412 GHz (Channel 1)",
+        "Quality": "34/70",
+        "Encryption": "on",
+        "SSID": "WIFI_ADMIN"
+    },
+    {
+        "BSSID": "10:3C:59:E5:52:B6",
+        "Channel": "2.462 GHz (Channel 11)",
+        "Quality": "34/70",
+        "Encryption": "on",
+        "SSID": "ZTE-E552B6"
+    },
+    {
+        "BSSID": "B8:37:B2:F3:FB:C3",
+        "Channel": "2.462 GHz (Channel 11)",
+        "Quality": "42/70",
+        "Encryption": "on",
+        "SSID": "WIFI_VISITAS"
+    },
+    {
+        "BSSID": "A0:25:D7:04:14:A0",
+        "Channel": "2.412 GHz (Channel 1)",
+        "Quality": "32/70",
+        "Encryption": "on",
+        "SSID": "WIFI_ALUM"
+    },
+    {
+        "BSSID": "24:F2:7F:7B:BF:81",
+        "Channel": "2.412 GHz (Channel 1)",
+        "Quality": "38/70",
+        "Encryption": "on",
+        "SSID": "WIFI_ADMIN"
+    },
+    {
+        "BSSID": "A0:25:D7:04:14:A4",
+        "Channel": "2.412 GHz (Channel 1)",
+        "Quality": "30/70",
+        "Encryption": "on",
+        "SSID": ""
+    },
+    {
+        "BSSID": "44:48:C1:5D:0B:83",
+        "Channel": "2.412 GHz (Channel 1)",
+        "Quality": "36/70",
+        "Encryption": "on",
+        "SSID": "WIFI_VISITAS"
+    },
+    {
+        "BSSID": "A0:25:D7:04:14:A2",
+        "Channel": "2.412 GHz (Channel 1)",
+        "Quality": "34/70",
+        "Encryption": "on",
+        "SSID": ""
+    },
+    {
+        "BSSID": "24:F2:7F:7B:BD:60",
+        "Channel": "2.462 GHz (Channel 11)",
+        "Quality": "28/70",
+        "Encryption": "on",
+        "SSID": "WIFI_ALUM"
+    },
+    {
+        "BSSID": "24:F2:7F:7B:BD:61",
+        "Channel": "2.462 GHz (Channel 11)",
+        "Quality": "28/70",
+        "Encryption": "on",
+        "SSID": "WIFI_ADMIN"
     }
 ]

@@ -81,8 +81,14 @@ Este proyecto está licenciado bajo la Licencia MIT.
 
 2. Luego, se debe verificar la interfaz de red utilizando el comando 'ip link show'. Es probable que se muestre como 'wlan0' y en estado 'DOWN'
 
-3. Para cambiar el estado 'DOWN' se debe utilizar el comando 'sudo airmon-ng start wlan0'.
+3. Para cambiar el estado 'DOWN' se debe utilizar los comandos: 
 
-4. En este caso, al realizar nuevamente un 'ip link show' aparecerá como 'wlan0mon' y en estado 'UP'.
+'sudo ip link set wlan0 down'
+'sudo iw wlan0 set type monitor'
+'sudo ip link set wlan0 up'
+'sudo airom-ng start wlan0'
+'iw dev' para verificar estado de la antena (monitor)
 
+4. Para realizar el escaneo de redes se utiliza el comando 'sudo airodump-ng wlan0'
 
+5. Con el comando 'sudo airdump-ng -c (número de canal) --bssid (bssid de la red) -w (nombre de archivo) wlan0'

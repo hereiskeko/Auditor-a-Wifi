@@ -11,7 +11,7 @@ body {
 /* Encabezados */
 h1, h2 {
     text-align: center;
-    color: #0056b3;
+    color: #339602;
     margin: 20px 0;
 }
 
@@ -25,7 +25,7 @@ h2 {
 
 /* Navegación */
 nav {
-    background-color: #0056b3;
+    background-color: #339602;
     padding: 10px 0;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
 }
@@ -65,14 +65,14 @@ nav ul li a:hover {
     margin: 5px;
     border-radius: 5px;
     border: none;
-    background-color: #007bff;
+    background-color: #3eba00;
     color: white;
     cursor: pointer;
     transition: background-color 0.3s, transform 0.2s;
 }
 
 .actions button:hover {
-    background-color: #0056b3;
+    background-color: #339602;
     transform: translateY(-2px);
 }
 
@@ -115,7 +115,7 @@ table th, table td {
 }
 
 table th {
-    background-color: #0056b3;
+    background-color: #174201;
     color: white;
     text-transform: uppercase;
 }
@@ -140,7 +140,7 @@ select {
 }
 
 select:focus {
-    border-color: #007bff;
+    border-color: #3eba00;
     outline: none;
     background-color: #eef6ff;
 }
